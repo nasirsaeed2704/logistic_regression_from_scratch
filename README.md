@@ -1,2 +1,2 @@
 # logistic_regression_from_scratch
-A jupyter project that contains an implementation of multiple logistic regression through custom functions implemented in python numpy
+A jupyter project that contains an implementation of multiple logistic regression through custom functions implemented in python numpy. It helps to understand how the sigmoid function converts the prediction of linear regression into 0 or 1 and how the cost function changes to cater this binary classification. gradient descent remains the same as that of linear regression as the derivates and the cost function are the only things that change.
